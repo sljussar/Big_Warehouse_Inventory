@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id=CONTENIDO_HEADER>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Inventory System- Everwell Parts</title>
+<title>Inventory System</title>
 <script type="text/javascript"> if(browser == IE6){</script>
 <LINK rel="stylesheet" type="text/css" media="screen" href="estilos/mobile.css">
 <script type="application/javascript"> }else{ </script>
