@@ -1,5 +1,5 @@
 <?php
-$dbname="inventoryeverwel"; //nombre base de datos
+$dbname="inventory"; //nombre base de datos
 $pgport="8889";
 $pghost="localhost";
 $db_user='root';
