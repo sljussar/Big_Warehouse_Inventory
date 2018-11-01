@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  background-color:white; 
+  text-align: left;  /*para corregir el bug de ie*/
+  padding: 0px;
+  margin: 0px;
+ font-size:100%;
+ 
+   
+}
+
+.botonExcel{cursor:pointer;}
+
+#operativo {
+
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  
+  
+}
+
+
+
+
+#logo {
+  right:50px;
+  position: relative;
+ 
+  
+  
+}
+
+
+
+#operativo table{
+
+    
+    font-size:small;
+   
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+ 
+ 
+  
+}
+#operativo h1{
+ 
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:1em;
+  
+  
+}
+
+#operativo h2{
+ 
+ 
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-size:.5em;
+  
+}
+
+#operativo table thead{
+  background-color: rgb(102, 102, 102); 
+  color: rgb(255, 255, 255);
+ }
+
+input[type=text] {
+    font-size:1.5em;
+}
+
+input[type=button] {
+    font-size:.5em;
+}
+
+
+
