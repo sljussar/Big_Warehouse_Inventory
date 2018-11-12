@@ -91,7 +91,7 @@ var clicksound=createsoundbite("click.ogg", "click.mp3")
  
 
  <div id="operativo"></div><!--aqui se cargan los formularios para trabajar-->
- <div id="inventory"></div><!--aqui se cargan los formularios para trabajar-->
+ <div id="inventory"></div><!--aqui se el inventario ya registrado-->
 
 
 </body>
